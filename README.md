@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pravesh Mahaur</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Rvdmw4ZTh1bTBvYW02Y3VqN3ltbXNmcWVscjMxd2E0bHlmOWQ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveshmahaur&label=Profile%20views&color=0e75b6&style=flat" alt="praveshmahaur" /> </p>
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveshmahaur&label=Profile%20views&color=0e75b6&style=flat" alt="praveshmahaur" /> </p>
 
-- 🌱 I’m currently learning **Data structure and Algorithms,flutter**
+- 🌱 I’m currently learning **Data structure and Algorithms, Flutter**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/pravesh-mahaur-211468228](www.linkedin.com/in/pravesh-mahaur-211468228)
 

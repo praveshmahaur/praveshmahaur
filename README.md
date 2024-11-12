@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pravesh Mahaur</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate App and Web developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/praveshmahaur/praveshmahaur/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveshmahaur&label=Profile%20views&color=0e75b6&style=flat" alt="praveshmahaur" /> </p>
 
-- 🌱 I’m currently learning **Data structure and Algorithms, Flutter**
+- 🌱 I’m currently learning **Data structure and Algorithms, Flutter, Web Development**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/pravesh-mahaur-211468228](www.linkedin.com/in/pravesh-mahaur-211468228)
 
